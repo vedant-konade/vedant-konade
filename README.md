@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Vedant 👋
 
-<!--
-**vedant-konade/vedant-konade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student at MIT-ADT University, India  
+🌱 Aspiring open-source contributor
+⚖️ Interested in legal-tech, developer tooling, and documentation automation
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Preparing to contribute to Accord Project 
+- Learning the Accord Project codebase & workflows
+- Improving skills in JavaScript, Node.js, and open-source collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript
+- Node.js
+- Python
+- Git & GitHub
+
+### 🌍 Open Source
+- Exploring open-source contribution workflows
+- Actively reading issues, documentation, and discussions
+
+📫 Reach me: vedkonade99@gmail.com | www.linkedin.com/in/vedant-konade
+
+
