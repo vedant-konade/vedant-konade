@@ -1,24 +1,16 @@
 ## Hi, I'm Vedant 👋
 
-🎓 IT student at MIT-ADT University, India  
-🌱 Aspiring open-source contributor
-⚖️ Interested in legal-tech, developer tooling, and documentation automation
+I am an IT undergraduate specializing in Machine Learning and MLOps, focused on building production-ready ML systems, not just models.
 
-### 🔭 Current Focus
-- Preparing to contribute to Accord Project 
-- Learning the Accord Project codebase & workflows
-- Improving skills in JavaScript, Node.js, and open-source collaboration
+My work centers around:
 
-### 🛠 Tech Stack
-- JavaScript
-- Node.js
-- Python
-- Git & GitHub
+Designing end-to-end ML pipelines
 
-### 🌍 Open Source
-- Exploring open-source contribution workflows
-- Actively reading issues, documentation, and discussions
+Handling real-world challenges like class imbalance, monitoring, and data drift
 
-📫 Reach me: vedkonade99@gmail.com | www.linkedin.com/in/vedant-konade
+Deploying and operating models in cloud environments (AWS)
 
+I am particularly interested in fraud detection, ML infrastructure, and applied AI systems, where reliability, observability, and maintainability matter as much as model accuracy.
+
+This project reflects how I approach ML engineering: from data to deployment, with production constraints in mind.
 
